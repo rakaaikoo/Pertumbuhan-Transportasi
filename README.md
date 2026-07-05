@@ -87,8 +87,6 @@ Program Studi Informatika — Fakultas Teknologi Informasi — UTDI
 | NIM | Nama |
 |---|---|
 | 235410023 | Muhammad Raka Aiko P |
-| 225410035 | Andita |
-| 205410171 | Yosias Evan Ardian |
 
 ## 📄 Lisensi
 
